@@ -1,5 +1,6 @@
 # Java Programming and Software Engineering : Build a Recommendation System
 
+
  Cours 1:  <a href="https://www.coursera.org/learn/duke-programming-web?specialization=java-programming"> Programming Foundations with
 JavaScript, HTML and CSS </a>.
 cours 2 :    <a href="https://www.coursera.org/learn/java-programming?specialization=java-programming "> Java Programming: Solving
@@ -14,12 +15,12 @@ Recommendation System  </a>.
  
 
 
- +  FINAL Project
+
+ +  FINAL Project  :  <a href="  http://www.dukelearntoprogram.com/capstone/recommender.php?id=mX4vDAHKYWy7gi "> Capstone Recommender Input Form </a>.
+ 
 
 <P></P>
-  <a href="https://www.coursera.org/verify/specialization/A5TZVFMBDJWK">validate specialisation certificate</a>.
-  
-  
+ 
   
 <img src="https://github.com/mxc19912008/readme_pics/raw/master/image/Recommedation 1.png" width="700"> 
 <P></P>
@@ -40,3 +41,7 @@ And These are the steps:
 4. Recommend movies to a given user based on ratings;
 5. Display recommended movies for a given user on a webpage.
 
+
+ <a href="https://www.coursera.org/verify/specialization/A5TZVFMBDJWK">validate specialisation certificate</a>.
+  
+  
