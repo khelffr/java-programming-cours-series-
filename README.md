@@ -1,10 +1,15 @@
 # Java Programming and Software Engineering : Build a Recommendation System
 
- Cours 1:  <a href="https://www.coursera.org/learn/duke-programming-web?specialization=java-programming">  </a>.
-cours 2 :    <a href="https://www.coursera.org/learn/java-programming?specialization=java-programming ">   </a>. 
-cours 3:   <a href=" https://www.coursera.org/learn/java-programming-arrays-lists-data?specialization=java-programming ">   </a>.
-cours 4   <a href="https://www.coursera.org/learn/java-programming-design-principles?specialization=java-programming ">  </a>.
-cours 5: final :   <a href="https://www.coursera.org/learn/java-programming-recommender ">  </a>.
+ Cours 1:  <a href="https://www.coursera.org/learn/duke-programming-web?specialization=java-programming"> Programming Foundations with
+JavaScript, HTML and CSS </a>.
+cours 2 :    <a href="https://www.coursera.org/learn/java-programming?specialization=java-programming "> Java Programming: Solving
+Problems with Software  </a>. 
+cours 3:   <a href=" https://www.coursera.org/learn/java-programming-arrays-lists-data?specialization=java-programming "> Java Programming: Arrays, Lists,
+and Structured Data
+  </a>.
+cours 4   <a href="https://www.coursera.org/learn/java-programming-design-principles?specialization=java-programming ">Java Programming: Principles of
+Software Design  </a>.
+cours 5: final :<a href="https://www.coursera.org/learn/java-programming-recommender ">  </a>.
  
 
 
