@@ -9,14 +9,12 @@ and Structured Data
   </a>.
 cours 4   <a href="https://www.coursera.org/learn/java-programming-design-principles?specialization=java-programming ">Java Programming: Principles of
 Software Design  </a>.
-cours 5: final :<a href="https://www.coursera.org/learn/java-programming-recommender ">  </a>.
+cours 5: final :<a href="https://www.coursera.org/learn/java-programming-recommender ">Java Programming: Build a
+Recommendation System  </a>.
  
 
 
-
-
-
-FINAL Project
+ +  FINAL Project
 
 <P></P>
   <a href="https://www.coursera.org/verify/specialization/A5TZVFMBDJWK">validate specialisation certificate</a>.
